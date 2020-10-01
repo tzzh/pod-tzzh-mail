@@ -11,7 +11,7 @@ It's relying entirely on https://github.com/jordan-wright/email and so supports 
 (babashka.pods/load-pod ["./pod-tzzh-mail"])
 (require '[pod.tzzh.mail :as m])
 
-(s/send-mail {:host "smtp.gmail.com"
+(m/send-mail {:host "smtp.gmail.com"
               :port 587
               :username "kylian.mbappe@gmail.com"
               :password "kylian123"
