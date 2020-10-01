@@ -1,0 +1,4 @@
+github.com/jackpal/bencode-go v1.0.0 h1:lzbSPPqqSfWQnqVNe/BBY1NXdDpncArxShL10+fmFus=
+github.com/jackpal/bencode-go v1.0.0/go.mod h1:5FSBQ74yhCl5oQ+QxRPYzWMONFnxbL68/23eezsBI5c=
+github.com/jordan-wright/email v4.0.1-0.20200917010138-e1c00e156980+incompatible h1:CL0ooBNfbNyJTJATno+m0h+zM5bW6v7fKlboKUGP/dI=
+github.com/jordan-wright/email v4.0.1-0.20200917010138-e1c00e156980+incompatible/go.mod h1:1c7szIrayyPPB/987hsnvNzLushdWf4o/79s3P08L8A=
