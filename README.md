@@ -7,8 +7,8 @@ It's relying entirely on https://github.com/jordan-wright/email and so supports 
 ## Usage
 
 ``` clojure
-(require '[babashka.pods])
-(babashka.pods/load-pod ["./pod-tzzh-mail"])
+(require '[babashka.pods :as pods])
+(pods/load-pod 'tzzh/mail "0.0.2")
 (require '[pod.tzzh.mail :as m])
 
 (m/send-mail {:host "smtp.gmail.com"
